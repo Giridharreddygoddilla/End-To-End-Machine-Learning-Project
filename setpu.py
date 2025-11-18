@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 name= 'MSc Data Science Project',
-version= '1.2.0',
+version= '0.0.1',
 author='Giridhar Reddy Goddilla',
 author_email= 'giridharreddygoddilla2002@gmail.com',
 packages=find_packages(),
